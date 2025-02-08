@@ -1,5 +1,5 @@
 # Ag-Programlama
-Bu projede Java ile TCP UDP protokolleriyle farklı projeleri birbirleriyle haberleştirdim.
+Bu projede Java kullanarak TCP UDP protokolleriyle farklı projeleri birbirleriyle haberleştirdim.
 # Server Ekranı:
 ![TCPServerFrame](https://github.com/umutsefkansak/TCPServer-TCPClient/assets/109917881/a9f128dc-8d81-4627-9219-f7290327e8a0)
 
